@@ -1,0 +1,26 @@
+{
+  "name": "discord-zapretyan",
+  "version": "1.4.101.20",
+  "description": "Бот запретян - Приложение (Бот) для Серверов и профилей пользователей для поиска по реестру блокировок, получения актуальной аналитики и сетевых инструментов, доступных через слеш-команды.",
+  "keywords": [
+    "discord-bot",
+    "russian-specific",
+    "roskomnadzor",
+    "blocklist-ru"
+  ],
+  "homepage": "https://github.com/Lunar-Creators/discord-zapretyan#readme",
+  "bugs": {
+    "url": "https://github.com/Lunar-Creators/discord-zapretyan/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lunar-Creators/discord-zapretyan.git"
+  },
+  "license": "GPL-3.0",
+  "author": "SHULKERPLAY",
+  "type": "commonjs",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "14.25.1"
+  }
+}
